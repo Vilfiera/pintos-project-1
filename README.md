@@ -8,4 +8,4 @@ The project is to implement a simple operating system (based on the Pintos syste
     
     4. filing services.
     
-NOTE: This repository contains parts 1 
+NOTE: This repository contains part 1.
